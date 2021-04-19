@@ -1,0 +1,25 @@
+/*
+Theme Name: launcher
+Theme URI:http://localhost/wptd
+Author: wppool
+Author URI: http://localhost/wptd
+Description: this is a demo theme 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, eduction , e-commerce, portfolio
+Text Domain: launcher   
+
+*/
+
+#fh5co-aside #fh5co-logo a {
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #fff;
+    padding: 5px;
+}
+.tip{
+    color:royalblue !important;
+    font-size: 18px;
+}
+
